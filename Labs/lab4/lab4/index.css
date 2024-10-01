@@ -1,0 +1,55 @@
+
+#img {
+    width: 15%;
+    position: absolute;
+    top: 190px; 
+    left: 190px; 
+}
+
+p {
+    font-size: 20px;
+}
+#p3{
+margin-left: 190px;
+position: absolute;
+top: 330px;
+}
+.p1{
+margin-left: 420px;
+position: relative;
+bottom: 165px;
+}
+
+
+
+aside {
+    position: relative; 
+    width: 150px; 
+}
+header{
+    text-align: center;
+    border: 1px solid white;
+    background-color: darkcyan;
+    padding: 20px;
+}
+li {
+    margin-bottom: 30px;
+}
+li a {
+    color: darkcyan;
+}
+footer {
+    text-align: center;
+    font-family: cursive;
+    border: 1px solid white;
+    background-color: darkcyan;
+    margin-top: 266px;
+    color: white;
+}
+.limove{
+    border: 1px solid white;
+    padding-left: 30px;
+}
+a {
+    text-decoration: none;
+}

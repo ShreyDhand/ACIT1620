@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+    border: 1px solid white;
+    background-color: darkcyan;
+    padding: 20px;
+}
+
+h2{
+    position: absolute;
+    top: 160px; 
+    left: 190px; 
+}
+#p1{
+    margin-left: 190px;
+position: absolute;
+top: 210px;
+}
+
+footer{
+    text-align: center;
+    font-family: cursive;
+    border: 1px solid white;
+    background-color: darkcyan;
+    margin-top: 540px;
+    color: white;
+}
+
+li {
+    margin-bottom: 30px;
+}
+li a {
+    color: darkcyan;
+}
+.limove{
+    border: 1px solid white;
+    padding-left: 30px;
+}
+a {
+    text-decoration: none;
+}
